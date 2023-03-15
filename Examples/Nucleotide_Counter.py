@@ -1,5 +1,5 @@
 ####################
-## Set filenames! ##
+## Set filenames edit:)! ##
 ####################
 
 location = "Location of input/output file"
